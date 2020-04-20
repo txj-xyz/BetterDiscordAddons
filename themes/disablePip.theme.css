@@ -1,0 +1,12 @@
+/**
+ * @name Disable Video PIP
+ * @version 1.0
+ * @description Disable the annoying floating video PIP when people have cameras on in a Voice chat.
+ * @source https://github.com/JayEffTree/BetterDiscordAddons
+ * @authorId 189238841054461952
+ * @author TXJ
+**/
+
+.pictureInPictureWindow-1B5qSe{
+	display:none;
+}
