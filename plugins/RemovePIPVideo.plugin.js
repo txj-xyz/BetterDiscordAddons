@@ -5,7 +5,7 @@ class RemovePIPVideo {
 		getName() { return "Remove Video PIP"; }
 		getShortName() { return "RemovePIPVideo"; }
 		getDescription() { return "Get rid of the Guild Video chat PIP window when clicking on a text chat."; }
-		getVersion() { return "1.0.1"; }
+		getVersion() { return "1.0.2"; }
 		getAuthor() { return "TXJ"; }
 
 		
